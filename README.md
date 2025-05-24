@@ -20,9 +20,10 @@ I'm a passionate software developer with a strong foundation in **Java** and **S
 
 ### 🚀 Projects
 
-- **Online Examination System** – Built with Java (Spring Boot), SQL (MySQL), and React/Thymeleaf
+- **Retail billing System** – Built with Java (Spring Boot), SQL (PostgreSQL), and React
 - **Bank User Management System** – Java-based backend with structured SQL queries for data operations
 - **Loan Management Web App** – Managed and displayed loan data using SQL with a React frontend
+- 
 
 ### 📈 What I'm Working On
 

@@ -4,7 +4,7 @@ I'm a passionate software developer with a strong foundation in **Java** and **S
 
 ### 🛠️ My Core Skills
 
-🗃️ **REACT**
+-🗃️ **REACT**
   -This repository demonstrates my skills in React.js development.  
   -It covers building reusable components and managing state effectively.  
   -Includes routing with React Router for multi-page apps.  

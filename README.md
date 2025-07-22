@@ -18,7 +18,7 @@ I'm a passionate software developer with a strong foundation in **React** ,**Boo
   - Complex queries, joins, and subqueries  
   - Stored procedures and triggers  
   - Database design and normalization  
-  - MySQL, PostgreSQL, Oracle  
+  - MONGODB, Oracle  
 
 - 🖥️ **Java**
   - Strong in object-oriented programming  

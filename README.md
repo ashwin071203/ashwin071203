@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ashwin
 
-I'm a passionate software developer with a strong foundation in **React** ,**Java**,**SQL**,**MongoDB**,**Bootstrap** ,**Tailwind** and . I enjoy building robust backend systems, writing efficient queries, and developing scalable applications.
+I'm a passionate software developer with a strong foundation in **React** ,**NodeJS**,**Java**,**Springboot**,**SQL**,**MongoDB**,**Bootstrap** ,**Tailwind** and . I enjoy building robust backend systems, writing efficient queries, and developing scalable applications.
 
 ---
 

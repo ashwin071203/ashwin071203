@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 - 🏗 Specialized in **React.js, Node js , Java ,Spring Boot, Mongo db and SQL**
-- 🏆 Delivered **5+ large-scale projects** in fintech, edtech, and e-commerce**
+- 🏆 Delivered **5+ large-scale projects** in **fintech, edtech, and e-commerce**
 - 🤝 Strong believer in **team collaboration** and mentoring **junior engineer**
 - 🚀 Passionate about **scalable architectures & performance optimization**
 

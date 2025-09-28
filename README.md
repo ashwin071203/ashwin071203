@@ -50,6 +50,13 @@
 
 ## 📂 Featured Projects
 
+### 🎬 Movie Finder App | [GitHub](https://github.com/ashwin071203/movie-finder-app)
+**Tech Stack:** React Native | Expo | Appwrite | JavaScript  
+- A **React Native Android application** that allows users to **search, browse, and discover movies** through an intuitive interface.  
+- Integrates with a **movie database API** to fetch **real-time movie details, ratings, and posters**.  
+- Features include **dynamic movie listings, search functionality, saved favorites, and responsive UI** optimized for Android devices.  
+
+
 ### 🛒 Full-Stack E-Commerce Platform | [GitHub](https://github.com/ashwin071203/Full-Stack-E-commerce-Platform-with-Admin-Dashboard)
 **Tech Stack:** React.js | Node.js | MongoDB | Redux Toolkit | JWT | bcrypt  
 - Built a modular MERN platform with real-time product, cart, and order flows.  
